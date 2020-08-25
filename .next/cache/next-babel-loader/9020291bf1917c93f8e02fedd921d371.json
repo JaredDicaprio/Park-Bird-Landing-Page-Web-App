@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './Header';","map":{"version":3,"sources":["C:/Users/Will/Desktop/Web Projects/Park-Bird-Landing-Page-Web-App/src/components/Header/index.js"],"names":["default"],"mappings":"AAAA,SAAQA,OAAR,QAAsB,UAAtB","sourcesContent":["export {default} from './Header'\r\n"]},"metadata":{},"sourceType":"module"}

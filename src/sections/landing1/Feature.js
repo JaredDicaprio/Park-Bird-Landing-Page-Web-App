@@ -115,7 +115,7 @@ const Feature = () => (
                 >
                    <TextSizeWrapper>
                     Our cameras will scan your license plate, 
-                    and if you have booked a parking space, you will then be granted access.
+                    and if you have booked a parking space, you will be granted access.
                    </TextSizeWrapper>
 
                 </FeatureCard>
@@ -128,7 +128,7 @@ const Feature = () => (
                   srcImage = {cctv4}
                 >
                   <TextSizeWrapper>
-                  Our cameras cover and survey the entire parking area, so that you will feel safe.
+                  Our cameras cover and survey the entire parking area, guaranteeing your security.
                   </TextSizeWrapper>
                   
                 </FeatureCard>
@@ -153,7 +153,7 @@ const Feature = () => (
                   srcImage = {securityGuard}
                 >
                   <TextSizeWrapper>
-                  Our diligent guards routinely patrol the parking areas, 
+                  Our profesional guards routinely patrol the parking areas, 
                   ensuring that you and your cargo remains safe.
                   </TextSizeWrapper>
                 </FeatureCard>
